@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+shift+s"], "command": "permute_selection", "args": {"operation": "reverse"} }
+]

@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Better TypeScript",
+		"Case Conversion",
+		"Color Highlighter",
+		"EditorConfig",
+		"Git",
+		"Handlebars",
+		"HTML Mustache",
+		"Jade",
+		"Jinja2",
+		"LESS",
+		"Nunjucks Syntax",
+		"Open-Include",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Sort Lines (Numerically)",
+		"Stupid Indent",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeOnSaveBuild"
+	]
+}
