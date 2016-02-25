@@ -1,17 +1,22 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"ApacheConf.tmLanguage",
 		"Better CoffeeScript",
-		"Better TypeScript",
 		"Case Conversion",
 		"Color Highlighter",
 		"EditorConfig",
-		"Git",
+		"GenerateUUID",
+		"Git Config",
+		"GitGutter",
+		"Gradle_Language",
 		"Handlebars",
 		"HTML Mustache",
+		"HTMLBeautify",
 		"Jade",
 		"Jinja2",
 		"LESS",
@@ -20,13 +25,17 @@
 		"Origami",
 		"Package Control",
 		"Pretty JSON",
+		"Search in Project",
+		"SelectUntil",
 		"SideBarEnhancements",
 		"Sort Lines (Numerically)",
 		"Stupid Indent",
 		"Stylus",
+		"SublimeGit",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
-		"SublimeOnSaveBuild"
+		"WordCount"
 	]
 }
