@@ -4,7 +4,7 @@ var sinon = require('sinon');
 var sandbox = sinon.sandbox.create();
 var assert = require('chai').assert;
 
-afterEach(function () {
+afterEach(() => {
     sandbox.restore();
 });
 ]]>
