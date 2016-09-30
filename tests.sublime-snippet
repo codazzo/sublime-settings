@@ -1,11 +1,11 @@
 <snippet>
     <content><![CDATA[
-var sinon = require('sinon');
-var sandbox = sinon.sandbox.create();
-var assert = require('chai').assert;
+import sinon from 'sinon';
+import {assert} from 'chai';
+const sb = sinon.sandbox.create();
 
 afterEach(() => {
-    sandbox.restore();
+    sb.restore();
 });
 ]]>
     </content>
