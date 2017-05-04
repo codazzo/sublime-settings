@@ -5,7 +5,7 @@ import {assert} from 'chai';
 const sb = sinon.sandbox.create();
 
 afterEach(() => {
-    sb.restore();
+  sb.restore();
 });
 ]]>
     </content>
