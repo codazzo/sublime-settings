@@ -48,8 +48,6 @@
   // ----------------------------------------------------------------------
 
   // "prettier_cli_path": "./node_modules/.bin/prettier",
-  "prettier_cli_path": "/Users/codazzo/.nvm/versions/node/v10.15.2/bin/prettier",
-   // "prettier_cli_path": "/Users/codazzo/.nvm/versions/node/v10.15.2/bin/prettier-eslint",
 
   // ----------------------------------------------------------------------
   // Node Path
@@ -73,7 +71,6 @@
   // ----------------------------------------------------------------------
 
   // "node_path": "/Users/codazzo/.nvm/versions/node/v6.11.0/bin/node",
-   "node_path": "/Users/codazzo/.nvm/versions/node/v10.15.2/bin/node",
 
   // ----------------------------------------------------------------------
   // Auto Format on Save
