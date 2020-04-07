@@ -54,7 +54,6 @@
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-stylelint",
-		"SummitLinter",
 		"WordCount"
 	]
 }
