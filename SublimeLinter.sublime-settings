@@ -12,11 +12,6 @@
                 "args": [],
                 "excludes": []
             },
-            "jscs": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "jshint": {
                 "@disable": true,
                 "args": [],
