@@ -5,5 +5,5 @@ console.log(JSON.stringify(${2}, null, 4));
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>sfy</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.js</scope>
+    <scope>source.js,source.ts</scope>
 </snippet>
