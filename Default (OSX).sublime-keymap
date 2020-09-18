@@ -7,7 +7,8 @@
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
     { "keys": ["f11"], "command": "typescript_go_to_type_definition"},
-    { "keys": ["alt+up"], "command": "move_caret_top" },
-    { "keys": ["alt+down"], "command": "move_caret_bottom"},
-    { "keys": ["alt+end"], "command": "move_caret_middle"},
+    { "keys": ["alt+up"], "command": "move_caret_back", "args": { "nlines": 10}},
+    { "keys": ["alt+down"], "command": "move_caret_forward", "args": { "nlines": 10}},
+    { "keys": ["alt+home"], "command": "move_caret_top"},
+    { "keys": ["alt+end"], "command": "move_caret_bottom"},
 ]
