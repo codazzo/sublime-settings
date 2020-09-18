@@ -1,0 +1,9 @@
+{
+	"clients":
+	{
+		"lsp-typescript":
+		{
+			"enabled": true
+		}
+	}
+}

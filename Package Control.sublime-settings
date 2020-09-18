@@ -37,6 +37,8 @@
 		"JsPrettier",
 		"JSX",
 		"LESS",
+		"LSP",
+		"LSP-typescript",
 		"MoveTab",
 		"Naomi",
 		"Nunjucks Syntax",
@@ -54,6 +56,7 @@
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-stylelint",
+		"TypeScript",
 		"WordCount"
 	]
 }
