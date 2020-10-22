@@ -8,7 +8,7 @@
             "@disable": false,
             "args": [],
             "excludes": [],
-            "selector": "source.ts, source.js - meta.attribute-with-value"
+            "selector": "source.ts, source.ts, source.js, source.jsx - meta.attribute-with-value"
         },
         "jscs": {
             "@disable": false,
