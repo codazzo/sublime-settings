@@ -15,5 +15,7 @@
     { "keys": ["ctrl+up"], "command": "scroll_lines_fixed", "args": {"amount": 1.0 } },
     { "keys": ["ctrl+down"], "command": "scroll_lines_fixed", "args": {"amount": -1.0 } },
     { "keys": ["ctrl+pageup"], "command": "scroll_lines_fixed", "args": {"by": "pages", "amount": 1.0 } },
-    { "keys": ["ctrl+pagedown"], "command": "scroll_lines_fixed", "args": {"by": "pages", "amount": -1.0 } }
+    { "keys": ["ctrl+pagedown"], "command": "scroll_lines_fixed", "args": {"by": "pages", "amount": -1.0 } },
+
+    { "keys": ["command+shift+r"], "command": "reveal_in_side_bar"}
 ]
